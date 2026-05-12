@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Anttoni 👋
 
-<!--
-**AnttoniJirm/AnttoniJirm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring SOC Analyst & Cloud Security Engineer  
+📍 Melbourne, Australia  
+🎯 Transitioning into cybersecurity from construction industry
 
-Here are some ideas to get you started:
+## About Me
+I bring a problem-solving mindset from years working in construction.
+Now applying that same focus to building secure systems and protecting infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- 🛡️ Cybersecurity Home Lab (Kali Linux + Ubuntu on VirtualBox)
+- ☁️ Azure Security (AZ-900 in progress)
+- 🔍 TryHackMe — SOC Level 1 path
+
+## Skills
+`Linux` `Nmap` `Wireshark` `Metasploit` `SQLmap`  
+`Azure` `Python (basics)` `SQL` `VirtualBox`
+
+## Certifications
+- ✅ Google Cybersecurity Certificate
+- 🔄 AZ-900 — In Progress
+- 📋 CompTIA Security+ — Studying
+
+## Projects
+- 🖥️ **Home Lab Setup** — Kali Linux + Ubuntu VMs (VirtualBox)
+- 🛡️ SIEM Lab with Wazuh — Coming soon
+- 🔥 Firewall Lab (pfSense + DVWA) — Coming soon
+- ☁️ Azure Security Lab — Coming soon
+
+## Connect with Me
+linkedin.com/in/antoni-mascarenhas-8b6281120
